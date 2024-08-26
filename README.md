@@ -1,7 +1,3 @@
-Here's a draft for the `README.md` of your GitHub repository based on the provided code and context:
-
----
-
 # Dispersive Flies Optimization (DFO) for Neural Network Training
 
 This project demonstrates how to train an Artificial Neural Network (ANN) using the Dispersive Flies Optimization (DFO) algorithm. The goal is to leverage DFO to find the optimal set of weights for the neural network, ultimately improving its performance.
